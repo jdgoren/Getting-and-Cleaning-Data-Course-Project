@@ -12,13 +12,9 @@ The tidy dataset should get created in the current directory as my_tidy_data.txt
 Assumptions:
 
 1.All columns representing means contain  the string mean in them.
-
 2.All columns representing standard deviations contain  the string std in them.
-
 3. Activity labels are in the file activity_labels.txt.
-
 4. Measurements are present in X_[dataset].txt file
-
 5. The measurements in the datasets match the list of features.
 
 
