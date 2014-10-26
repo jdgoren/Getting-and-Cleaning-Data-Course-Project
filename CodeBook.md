@@ -39,7 +39,7 @@ We finish by creating an tidy data set called my_data_set from average of each v
 "test/y_test.txt" -> Test labels.
 
 
-## How ```run_analysis.R``` implements the above steps:
+## How it works:
 
 1. Load both test and train data
 2. Load the features and activity labels.
